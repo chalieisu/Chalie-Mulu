@@ -1,1 +1,1 @@
-# Chalie-Mulu
+I am Chalie Mulu working as a specialist of Geospatial epidemiologist at Ethiopian Public Health Institute (EPHI) in Ethiopia. Therefoer I would like to request you to get spatial data of Covid-19, Malaria and HIV in Ethiopia. The data may be Point coordinates, polygons and attribute of them. Thank you
